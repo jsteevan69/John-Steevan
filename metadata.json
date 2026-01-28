@@ -1,0 +1,7 @@
+{
+  "name": "LankaDebt Monitor",
+  "description": "A comprehensive real-time information portal for Sri Lankan Government Securities, Treasury auctions, and Central Bank economic indicators using Gemini-powered search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
